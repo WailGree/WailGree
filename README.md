@@ -1,5 +1,5 @@
 # WailGree's Profile
-
+<!--
 <div align="center" style="width: 100%; min-height: 100vh; background-image: url('https://raw.githubusercontent.com/WailGree/WailGree/main/assets/synthwave-background.gif'); background-size: cover; background-position: center; background-repeat: no-repeat; padding: 20px; color: white;">
 
 
@@ -13,7 +13,7 @@
 [![Time spent working with-light](https://github-readme-stats.vercel.app/api/wakatime?username=WailGree&layout=compact&theme=synthwave&custom_title=Time%20Spent#gh-light-mode-only)](https://github.com/WailGree/github-readme-stats#gh-light-mode-only)
 
 </div>
-
+-->
 <!--
 **WailGree/WailGree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
